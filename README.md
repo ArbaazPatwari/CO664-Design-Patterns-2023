@@ -1,2 +1,5 @@
-# CO664-Design-Patterns-2023
- Jupyter Notebooks exercises and evidence for Design Patterns CW1.
+# Python and MVC Tasks 1 to 17
+
+| <th colspan = 2> Details |
+| --- |
+ 
