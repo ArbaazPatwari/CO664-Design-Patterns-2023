@@ -7,5 +7,3 @@
 | Course: | Software Engineering |
 | Module: | CO664 |
 | Started: | September 2023 |
- 
-Link to tasks evidence: [Tasks 1 to 17](#)
